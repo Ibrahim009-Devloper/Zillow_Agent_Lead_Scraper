@@ -1,0 +1,10 @@
+.env
+credentials/*.json
+output/*
+temp/*
+!*/.gitkeep
+__pycache__/
+*.pyc
+downloaded_files/
+latest_logs/
+archived_logs/
